@@ -1,0 +1,26 @@
+.username {
+  font-size: 60px;
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 0px;
+}
+.corpotexto {
+  text-align: justify;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-right: 165px;
+  font-size: 34px;
+  font-family: montserrat;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.experiencias{
+  font-family: arial;
+}
+.hyperlinks {
+  font-size: 15px;
+}

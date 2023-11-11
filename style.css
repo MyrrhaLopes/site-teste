@@ -1,0 +1,38 @@
+html {
+        font-size: 28px;
+        background-color: whitesmoke;
+      }
+      .profilePicture {
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+        border-radius: 69px;
+        float: left;
+        margin-right: 40px;
+      }
+     
+      .button {
+        background-color: rgba(32, 116, 158, 0);
+
+        color: rgb(4, 120, 155);
+        font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+        font-size: 30px;
+        border-radius: 15px;
+        border-color: rgb(4, 120, 155);;
+        border-style: solid;
+        padding-inline: 25px;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        cursor: pointer;
+        transition: background-color 0.4s;
+
+      }
+      .button:hover {
+        opacity: 0.8;
+        background-color:  rgb(4, 120, 155);
+        color: rgb(255, 255, 255);
+        border-color: rgb(4, 120, 155);;
+      }
+      .button:active {
+        opacity: 0.5;
+      }
